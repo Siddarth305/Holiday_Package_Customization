@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Budget_USD,Preferred_Continent,Travel_Companions,Travel_Duration_Days,Accommodation_Type,Activity_Preference,Season,Previous_International_Trips,Package_Customized
+CUST001,57,Male,3042.79,Europe,Couple,19,Hostel,Adventure,Summer,9,No
+CUST002,64,Male,4652.77,South America,Couple,13,Resort,Adventure,Spring,15,Yes
+CUST003,41,Other,775.65,Australia,Couple,9,Hostel,Mixed,Fall,11,No
+CUST004,61,Male,4837.88,Africa,Family,13,Hostel,Adventure,Fall,0,No
+CUST005,52,Male,8413.71,Australia,Couple,4,Resort,Adventure,Spring,12,Yes
+CUST006,40,Other,6559.16,Asia,Solo,9,Resort,Relaxation,Fall,12,No
+CUST007,47,Female,9641.14,South America,Solo,16,Airbnb,Mixed,Winter,12,No
+CUST008,59,Male,5390.86,North America,Friends,16,Airbnb,Adventure,Spring,15,Yes
+CUST009,46,Male,4117.48,North America,Family,9,Resort,Relaxation,Winter,3,No
+CUST010,40,Other,2226.44,Asia,Solo,19,Resort,Relaxation,Winter,0,Yes
+CUST011,65,Female,3007.11,Australia,Family,11,Resort,Nature,Fall,6,Yes
+CUST012,21,Male,5796.23,South America,Couple,15,Resort,Culture,Fall,3,No
+CUST013,53,Other,7489.97,Asia,Friends,18,Hotel,Adventure,Winter,5,No
+CUST014,18,Male,9422.8,Europe,Solo,5,Hostel,Relaxation,Spring,12,No
+CUST015,37,Female,7744.96,Europe,Solo,12,Resort,Nature,Winter,2,No
+CUST016,46,Other,5613.01,Australia,Couple,18,Hostel,Relaxation,Summer,13,Yes
+CUST017,32,Male,4993.2,Africa,Solo,4,Resort,Culture,Spring,1,Yes
+CUST018,26,Male,1750.02,Europe,Friends,16,Resort,Adventure,Spring,8,No
+CUST019,32,Male,9414.36,North America,Solo,7,Hotel,Adventure,Fall,13,Yes
+CUST020,30,Male,9662.67,Europe,Couple,3,Resort,Mixed,Spring,10,Yes
+CUST021,29,Male,7321.41,Europe,Couple,15,Resort,Relaxation,Spring,2,No
+CUST022,56,Other,8988.89,North America,Couple,7,Hostel,Adventure,Summer,2,Yes
+CUST023,68,Other,6306.08,Asia,Couple,16,Hotel,Relaxation,Spring,6,No
+CUST024,67,Other,3642.49,Asia,Couple,3,Hotel,Culture,Summer,15,Yes
+CUST025,50,Male,8367.16,Europe,Solo,9,Airbnb,Adventure,Spring,7,No
+CUST026,63,Male,1231.04,Asia,Family,18,Hostel,Relaxation,Summer,11,Yes
+CUST027,60,Female,6995.06,Australia,Couple,21,Hotel,Mixed,Spring,10,No
+CUST028,18,Female,1599.8,Australia,Couple,7,Hostel,Adventure,Spring,2,Yes
+CUST029,27,Female,4528.17,Asia,Friends,7,Hotel,Relaxation,Spring,4,No
+CUST030,67,Male,7148.49,Australia,Solo,9,Airbnb,Culture,Summer,10,Yes
+CUST031,66,Other,5052.57,Europe,Solo,19,Airbnb,Nature,Winter,9,Yes
+CUST032,29,Male,4558.13,Africa,Friends,16,Resort,Culture,Winter,7,No
+CUST033,55,Female,701.61,South America,Family,9,Resort,Nature,Spring,5,No
+CUST034,22,Male,1580.52,Asia,Couple,16,Hostel,Culture,Summer,5,No
+CUST035,55,Female,7833.28,North America,Solo,7,Resort,Relaxation,Fall,15,No
+CUST036,42,Male,1210.17,Australia,Family,14,Hotel,Nature,Summer,7,No
+CUST037,69,Male,8223.36,North America,Family,11,Hostel,Adventure,Winter,8,Yes
+CUST038,45,Female,5651.09,Asia,Family,11,Resort,Relaxation,Spring,9,No
+CUST039,49,Female,843.29,Africa,Friends,14,Airbnb,Mixed,Fall,5,Yes
+CUST040,61,Male,1126.3,North America,Couple,18,Airbnb,Culture,Spring,15,Yes
+CUST041,26,Other,4425.58,North America,Family,7,Hotel,Adventure,Fall,5,Yes
+CUST042,62,Male,3586.74,Europe,Solo,4,Hostel,Mixed,Fall,2,No
+CUST043,37,Other,7835.07,Europe,Family,9,Hostel,Nature,Winter,15,No
+CUST044,31,Female,7642.64,Asia,Friends,10,Resort,Adventure,Winter,0,Yes
+CUST045,30,Female,9157.79,South America,Family,21,Hotel,Mixed,Winter,12,Yes
+CUST046,47,Other,8840.34,North America,Family,16,Hotel,Adventure,Summer,6,Yes
+CUST047,49,Female,3541.86,South America,Solo,5,Hotel,Mixed,Spring,3,Yes
+CUST048,52,Other,8401.32,Australia,Solo,5,Resort,Mixed,Spring,0,No
+CUST049,56,Male,3859.99,Asia,Friends,4,Resort,Culture,Fall,11,Yes
+CUST050,40,Other,887.0,South America,Family,7,Resort,Culture,Summer,8,No
+CUST051,52,Other,9412.16,Europe,Solo,8,Hostel,Culture,Winter,14,No
+CUST052,45,Male,4609.43,Asia,Friends,19,Hostel,Relaxation,Summer,4,Yes
+CUST053,43,Female,641.45,North America,Family,4,Airbnb,Mixed,Winter,15,No
+CUST054,64,Other,1677.38,Asia,Couple,16,Resort,Nature,Spring,13,No
+CUST055,66,Female,4233.38,Europe,Solo,18,Hotel,Culture,Fall,0,Yes
+CUST056,19,Female,1828.88,Asia,Family,11,Hotel,Relaxation,Fall,0,Yes
+CUST057,51,Other,3500.73,Africa,Friends,14,Hotel,Nature,Winter,13,No
+CUST058,22,Female,8147.94,Australia,Friends,14,Hostel,Mixed,Spring,15,Yes
+CUST059,24,Other,7375.93,South America,Couple,16,Hostel,Mixed,Fall,11,Yes
+CUST060,31,Other,3654.45,South America,Solo,11,Airbnb,Culture,Winter,13,No
+CUST061,55,Other,9894.77,North America,Family,5,Airbnb,Relaxation,Summer,4,Yes
+CUST062,44,Other,9620.67,Asia,Friends,12,Hotel,Culture,Spring,9,No
+CUST063,23,Male,8312.03,South America,Friends,14,Hotel,Mixed,Fall,7,Yes
+CUST064,48,Male,9179.37,Australia,Couple,20,Hostel,Mixed,Winter,5,Yes
+CUST065,40,Male,3812.52,Asia,Family,8,Airbnb,Nature,Winter,11,No
+CUST066,35,Male,5853.45,Africa,Couple,8,Hostel,Culture,Summer,6,No
+CUST067,54,Female,3295.2,Australia,Couple,17,Hotel,Nature,Winter,2,No
+CUST068,52,Other,7622.85,Australia,Couple,7,Airbnb,Relaxation,Spring,4,No
+CUST069,42,Female,7430.25,Asia,Solo,21,Airbnb,Relaxation,Fall,6,No
+CUST070,63,Other,9199.09,Australia,Friends,12,Airbnb,Relaxation,Spring,12,No
+CUST071,42,Female,3874.19,Africa,Friends,8,Airbnb,Mixed,Spring,15,No
+CUST072,24,Male,5792.39,Africa,Couple,17,Airbnb,Relaxation,Spring,2,No
+CUST073,54,Other,7204.56,North America,Friends,9,Hostel,Relaxation,Spring,15,Yes
+CUST074,40,Other,9572.75,Africa,Couple,18,Hostel,Adventure,Summer,3,No
+CUST075,36,Female,8572.64,Africa,Couple,3,Hostel,Relaxation,Spring,10,Yes
+CUST076,35,Other,1664.6,Europe,Friends,17,Resort,Nature,Spring,3,No
+CUST077,23,Male,4050.09,Europe,Couple,17,Hostel,Mixed,Spring,9,No
+CUST078,52,Male,2563.07,Europe,Couple,13,Hostel,Relaxation,Fall,13,Yes
+CUST079,54,Other,5057.02,North America,Couple,14,Resort,Mixed,Fall,0,No
+CUST080,35,Female,9790.54,Australia,Friends,19,Airbnb,Relaxation,Winter,10,Yes
+CUST081,65,Male,3808.69,Australia,Family,19,Airbnb,Adventure,Summer,14,Yes
+CUST082,31,Female,6205.93,Asia,Family,3,Hotel,Mixed,Spring,14,No
+CUST083,30,Male,5413.05,North America,Solo,17,Hotel,Mixed,Fall,6,Yes
+CUST084,66,Other,561.43,North America,Couple,4,Resort,Relaxation,Spring,7,Yes
+CUST085,69,Male,1398.8,South America,Solo,3,Resort,Mixed,Spring,7,No
+CUST086,61,Female,2114.22,Europe,Couple,10,Hotel,Relaxation,Fall,4,Yes
+CUST087,47,Other,733.25,Africa,Solo,12,Resort,Relaxation,Summer,6,Yes
+CUST088,57,Male,2084.87,Australia,Solo,4,Airbnb,Mixed,Summer,15,No
+CUST089,23,Female,3286.63,South America,Solo,17,Resort,Adventure,Fall,14,No
+CUST090,47,Male,8719.45,Asia,Friends,15,Resort,Culture,Spring,0,No
+CUST091,60,Female,2349.14,North America,Solo,7,Resort,Culture,Winter,13,No
+CUST092,39,Other,4706.47,Australia,Friends,21,Resort,Adventure,Summer,4,Yes
+CUST093,20,Other,3757.65,South America,Family,7,Airbnb,Nature,Summer,2,Yes
+CUST094,40,Female,7915.43,North America,Family,9,Hostel,Culture,Spring,2,No
+CUST095,46,Other,4787.62,Asia,Friends,14,Hotel,Relaxation,Spring,15,No
+CUST096,47,Female,9473.21,Australia,Couple,17,Airbnb,Mixed,Summer,10,No
+CUST097,27,Male,5340.42,Australia,Solo,9,Airbnb,Culture,Fall,0,Yes
+CUST098,39,Female,764.3,North America,Friends,17,Resort,Culture,Winter,9,No
+CUST099,60,Female,4186.93,North America,Solo,7,Airbnb,Relaxation,Spring,11,No
+CUST100,51,Other,2200.01,Africa,Friends,9,Airbnb,Relaxation,Summer,8,Yes
